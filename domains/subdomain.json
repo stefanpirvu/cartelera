@@ -1,0 +1,11 @@
+{
+    "description": "Describe the use of this subdomain",
+    "repo": "https://github.com/stefanpirvu/cartelera",
+    "owner": {
+        "username": "stefanpirvu",
+        "email": "[email protected]"
+    },
+    "record": {
+        "CNAME": "github-stefanpirvu.github.io"
+    }
+}
